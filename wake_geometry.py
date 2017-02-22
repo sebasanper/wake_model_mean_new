@@ -100,15 +100,15 @@ if __name__ == '__main__':
 #
 #
 # #8.5 0.81 5026.54824574 561.0 0.0 0.145785018447 61.835158772 121.6 173.2 102.670850215
-
-    # print 'The radius of the wake is {0:f} m'.format(radius)
-    # example = partial_wake_speed(10.0, 0.91, 0.04, 17.0, 1.0, 0.0)
-    # print examples
-    # print wake_deficit(example, 10.0)
-    #
-    # casa = [1, 2, 3, 4]
-    # print root_square_sum(*casa)
-    #
-    # print crosswind_distance(deg2rad(135), 2., 2., -3., -3.)
-
-    # print determine_if_in_wake(424534., 6151447., 423974.0, 6151447., 0.1, 40.0, 0.0)
+#
+#     print 'The radius of the wake is {0:f} m'.format(radius)
+#     example = partial_wake_speed(10.0, 0.91, 0.04, 17.0, 1.0, 0.0)
+#     print examples
+#     print wake_deficit(example, 10.0)
+#
+#     casa = [1, 2, 3, 4]
+#     print root_square_sum(*casa)
+#
+#     print crosswind_distance(deg2rad(135), 2., 2., -3., -3.)
+#
+#     print determine_if_in_wake(424534., 6151447., 423974.0, 6151447., 0.1, 40.0, 0.0)
